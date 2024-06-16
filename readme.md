@@ -12,7 +12,8 @@ LLAMA 2.0 is a state-of-the-art language model developed by Facebook AI Research
 Langchain
 
 Langchain is a framework that provides tools for building applications that use large language models (LLMs). It simplifies the integration of LLMs into various applications by providing utilities for managing models, handling inputs and outputs, and optimizing performance. Langchain helps streamline the process of developing and deploying language model-based applications.
-ChromaDB
+
+### ChromaDB
 
 ChromaDB is a highly efficient and scalable database designed for storing and querying large collections of documents. It supports advanced retrieval mechanisms that allow for fast and accurate document retrieval based on various criteria. In this project, ChromaDB is used to store the document and enable efficient retrieval of relevant information.
 Project Details
